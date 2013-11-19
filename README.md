@@ -8,3 +8,5 @@ Payment Receipt BS3 - [View on Bootsnipp.com](http://bootsnipp.com/amatellanes/s
 Tumblr Login Style - [View on Bootsnipp.com](http://bootsnipp.com/amatellanes/snippets/PjWx "Viewing snippet Tumblr Login Style | Bootsnipp.com")
 
 about.me Login Style - [View on Bootsnipp.com](http://bootsnipp.com/amatellanes/snippets/Qxbg "Viewing snippet about.me Login Style | Bootsnipp.com")
+
+Responsive Sidebar Navigation - [View on Bootsnipp.com](http://bootsnipp.com/amatellanes/snippets/Krkl "Viewing snippet Responsive Sidebar Navigation | Bootsnipp.com")
